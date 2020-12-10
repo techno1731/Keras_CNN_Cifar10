@@ -1,5 +1,5 @@
 # requirements.in
-tensorflow
+tensorflow-cpu
 keras
 streamlit
 numpy
