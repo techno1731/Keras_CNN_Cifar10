@@ -21,7 +21,8 @@ st.write('To start upload an Image, the model will then try to predict to which\
 st.write('Categories: airplane, automobile, bird, cat,\
  deer, dog, frog, horse, ship or truck')
 
-uploaded_file = st.file_uploader("Choose an Image to Classify ...")
+uploaded_file = st.file_uploader("Choose an Image to Classify ...",
+                                 type=['jpeg','jpg','png','tiff'])
 if uploaded_file is not None:
     image = Image.open(uploaded_file)
     st.image(image, caption='Uploaded Image.', use_column_width=True)
