@@ -9,13 +9,13 @@ import numpy as np
 model = None
 classes = ['airplane', 'automobile', 'bird', 'cat', 'deer', 'dog', 'frog', 'horse', 'ship', 'truck']
 
+new shit:
 
 def load_model():
     # load the pre-trained model for example in h5 format from keras
     global model
     model = lm('cifar10_chingon.h5')
     return model
-
 
 def prepare_image(image, target):
 	# if the image mode is not RGB, convert it
