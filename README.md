@@ -2,7 +2,7 @@
 
 **Powered by:**
 
-[![Python](https://img.shields.io/badge/python-3.8.X-blue?logo=python&logoColor=white)]
+[![Python](https://img.shields.io/pypi/pyversions/tensorflow?logo=python&logoColor=white)](https://github.com/python/cpython)
 [![Tensorflow](https://img.shields.io/badge/Tensorflow-2.3.2-orange?logo=tensorflow)](https://github.com/tensorflow/tensorflow)
 [![Keras](https://img.shields.io/badge/keras-2.4-red?logo=keras)](https://github.com/keras-team/keras)
 [![Numpy](https://img.shields.io/badge/Numpy-1.19.5-skyblue?logo=numpy)](https://github.com/numpy/numpy)
