@@ -1,12 +1,15 @@
 # CNN on Cifar10 with Keras
+
 **Powered by:**
+
 [![Python](https://img.shields.io/pypi/pyversions/tensorflow?logo=python&logoColor=white)]
 [![Tensorflow](https://img.shields.io/badge/Tensorflow-CPU-2.3.2-orange?logo=tensorflow)](https://github.com/tensorflow/tensorflow)
 [![Keras](https://img.shields.io/badge/keras-2.4-red?logo=keras)](https://github.com/keras-team/keras)
 [![Numpy](https://img.shields.io/badge/Numpy-1.19.5-skyblue?logo=numpy)](https://github.com/numpy/numpy)
 [![Streamlit](https://img.shields.io/badge/streamlit-0.74.1-yellow)](https://github.com/streamlit/streamlit)
 [![Heroku](https://img.shields.io/badge/Heroku-7.47.7-purple?logo=Heroku)](https://github.com/heroku/cli)
-[![Black](https://img.shields.io/badge/Code\ Style-Black-black)](https://github.com/psf/black)
+[![Black](https://img.shields.io/badge/Code%20Style-Black-black)](https://github.com/psf/black)
+
 ## What is it?
 
 This repo contains all the modules required to launch a Heroku App that classifies images into the ten categories from CIFAR10 dataset, the model was trained with convolutional neural networks using keras sequential wrapper on tensorflow.
