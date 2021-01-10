@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # import the necessary packages
-from ModeloChingon import *
+from cnn_cifar_model import *
 import streamlit as st
 
 
